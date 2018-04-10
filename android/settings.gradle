@@ -1,0 +1,3 @@
+rootProject.name = 'colossal_rn'
+
+include ':app'
